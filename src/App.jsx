@@ -153,7 +153,7 @@ export default function Page() {
             Ok Yayyyyy!!! 💕
           </div>
           <p className="success-message">
-            I knew you'd say yes! ❤️
+            I knew you'd say yes! Love youuu Maria !!! ❤️
           </p>
         </div>
       ) : (
